@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/prny1002.lwc-l2d1r1o4-fork-l2d373wu",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve bJqyOzQKvNV183MB8IJH --open"
+  }
+}
